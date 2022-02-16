@@ -1,0 +1,25 @@
+
+Historia GitHub
+
+a.	Quem inventou o sistema de controle de versão Git e por quê?
+
+Toda a história da criação do Git se dá em torno do Kernel do Linux. Ele e seu versionamento foram mantidos durante muito tempo no Bitkeeper, mas a empresa por trás dele, a BitMoover, resolveu ir para uma linha de comercialização do licenciamento de acesso ao software.
+Por um tempo, ela permitiu que os desenvolvedores do kernel do Linux usassem a versão gratuita (Freeware), mas um dos mantenedores, Andrew Tridgell, desenvolveu uma versão open source do client, uma ferramenta que poderia trabalhar com o código fonte armazenado no BitKeeper. Porém, a BitMoover ficou extremamente insatisfeita e considerou como violação da licença e engenharia reversa a criação desse client.
+Após meses de negociação, esse acesso gratuito foi revogado e surgiu a necessidade da criação de algo que não só substituísse. Mas fosse melhor que o Bitkeeper. Linus e todas as pessoas que mantinham o Kernel começaram a busca, mas nenhuma das opções de controle de versão descentralizadas disponíveis atendiam às necessidades. 
+Nasce, então, o Git com a proposta de resolver a necessidade de um sistema de distribuição descentralizada, e que seguisse a filosofia de software livre, assim como o Linux, e sem se preocupar em ficar preso a uma ferramenta proprietária que de um dia pro outro os criadores resolvessem comercializá-lo.  
+
+b.	Quem atualmente é o dono do Github e por quê?
+
+Atualmente a Microsoft é dona do GitHub e, segundo a própria empresa, a compra foi estratégica.
+A empresa, que percebeu que o padrão de "gerar lucro" somente não cabe mais nos dias atuais, entendeu que a aquisição de informação e 
+a entrada no universo open source seriam grandes aliados para seu desenvolvimento.
+
+
+c.	Existe outra maneira, além do terminal, de trabalhar com o Github?
+
+Sim, existe o GitHub Desktop.
+
+FONTES
+
+https://blog.taller.net.br/git-parte-1-como-durgiu-a-ferramenta-de-controle-de-versao/
+https://diolinux.com.br/noticias/sobre-compra-do-github-pela-microsoft.html
