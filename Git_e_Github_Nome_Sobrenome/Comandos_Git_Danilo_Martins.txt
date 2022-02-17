@@ -1,0 +1,26 @@
+Ir para um diretorio acima do atual
+$ cd ..
+
+Entrar em um diretorio abaixo do atual
+$ cd <nome-do-diretorio>/
+
+Mostrar arquivos existentes no diretorio atual ou especificado
+$ ls -la
+
+Inicializar um diretorio como um repositorio git
+$ git init
+
+Obter uma copia de um repositorio hospedado no github
+$ git clone [url]
+
+Mostrar situacao dos  arquivos modificados no diretorio
+$ git status
+
+adiciona um arquivo para ser adicionado para commit
+$ git add [arquivo]
+
+Criar uma nova branch
+$ git branch [nome-branch]
+
+Mudar para outra branch
+$ git checkout
