@@ -1,0 +1,18 @@
+1.Quem inventou o sistema de controle de versão Git e por quê?
+
+Resposta:
+O Git foi inventado por Linus Torvald, o qual foi o mesmo inventor do kernel Linux. O Git foi inventado porque em 2005, 
+ano de sua criação, terminou a gratuidade do serviço proprietário BitKeeper, com o qual Torvald desenvolvia o kernel.
+Na época, nenhum outro sistema de comando existente até então atendia as necessidades para que ele continuasse o desenvolvimento.
+ 
+
+2.Quem atualmente é o dono do Github e por quê?
+
+Resposta:
+Atualmente, a Microsoft é a dona do Github, porque comprou por 7.5 bilhões em  2018, com o interesse de atrair mais programadores
+do código aberto.
+
+3.Existe outra maneira, além do terminal, de trabalhar com o Github?
+
+Resposta:
+Sim, existe outra maneira, que é via Github desktop.
