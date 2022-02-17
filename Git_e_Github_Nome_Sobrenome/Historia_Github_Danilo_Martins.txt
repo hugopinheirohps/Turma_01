@@ -1,0 +1,6 @@
+Git foi inventado pelo Linuz Torvalds. Ele foi criado com o objetivo de ser uma alternativa de codigo aberto e de uso gratuito, em contraponto aos outros controles de versao em que voce era obrigado a pagar para usar certas funcionalidades.
+Sua funçao e a de controlar as versoes dos codigos e arquivos criados.
+
+Atualmente a Microsoft e detentora da Github. Ela fez isso com a intençao de aumentar seu foco em projetos de codigo aberto (open source). E levar as ferramentas e serviços de desenvolvimento de software para novos usuarios.
+
+Alem do terminal, voce pode usar a propria pagina do github na internet para trabalhar com o github e existem tambem aplicativos desktop para isso, com interface grafica.
