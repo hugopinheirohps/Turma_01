@@ -1,0 +1,18 @@
+git init  (inicia um repositório local)
+
+git add  . (Prepara as modificações feitas para o commit)
+
+git commit -m (Adiciona as modificações feitas e descreve uma mensagem)
+
+git status (Mostra o status dos arquivos pertencentes ao repositório)
+
+git push origin master (Envia as alterações para o repositório no Github)
+
+git clone "link" (clona repositório)
+
+git branch "nome" (cria branch)
+
+git checkout "nome" (entra na brach)
+
+git pull origin master (Atualiza o repositório)
+
