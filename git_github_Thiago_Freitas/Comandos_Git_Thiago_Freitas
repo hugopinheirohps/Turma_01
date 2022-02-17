@@ -1,0 +1,12 @@
+cria uma pasta $ mkdir  $ cd nome da pasta
+cria um arquivo $ touch nome do  arquivo
+edita um arquivo  $ nano nome do arquivo
+cria um novo repositório local $ git init
+muda sua branch  $ git branch nomeDaBranch
+clona um repositorio existente $ git clone link
+baixa sua branch existente(pelo menos é o sei até agora)  $ git checkout nomeDaBranch
+check as  atualizaçôe  $ git status
+adiciona o seu repositorio na fila $ git add .
+prepara nosso arquivo para upload  $ git commit -m "nomeDaSuaAtulização"
+envia uma atulização para nosso repositorio remoto $ git push 
+
