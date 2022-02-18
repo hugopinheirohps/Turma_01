@@ -1,0 +1,14 @@
+            Clonar um repositório existente
+                git clone "url do projeto"
+Inicializa ou Reinicializa um repositório local
+                git init
+Adicionar alterações ao repositório local
+                git add .
+Criar um comentário/mensagem sobre a versão atual
+                git commit
+Enviar alterações para o repositório remoto
+                git push
+Criar uma nova Branch no repositório local e ou remoto
+                git branch "nome da branch"
+Verificar status do repositório e se existem alterações a fazer
+                git status
