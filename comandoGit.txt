@@ -1,0 +1,24 @@
+Comandos Git
+
+git init // usado para iniciar um repositorio
+
+git config --global user.name 7Bl4ck //usado pra cadastrar um usuario
+git config --global user.email black@blackumconceito.com.br //usado pra cadastrar um email
+git remote add origin https://github.com/7Bl4ck/InfoGit //usado para vincular um repositorio local a um repositorio remoto
+
+git config --global --replace-all user.name //para alterar o nome
+git config --global --replace-all user.email //para alterar o email
+git remote set-url origin url-que-vc-quer //para alterar o repositorio
+
+
+git add . //prepara os arquivos para fila
+git status //mostra se existe ou não arquivos para serem commitados
+git commit -m "comentario" //envia os arquivos para fila 
+git push origin master //envia os arquivos para o repositorio remoto
+
+
+git clone "url do repositorio remoto" //clona um repositorio remoto
+git pull //atualiza os arquivos no repositorio local
+
+git branch 'nome da branch' //cria uma branch
+git checkout "nomeDaBranch' //acessa uma branch existente; cria uma nova branch
