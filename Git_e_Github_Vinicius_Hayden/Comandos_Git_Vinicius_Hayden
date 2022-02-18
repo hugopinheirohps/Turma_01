@@ -1,0 +1,7 @@
+Git init --> Criar um novo repositório Local
+Git add . --> Adicionar todos os arquivos numa lista de espera para o repositório remoto
+Git push --> Fazer upload dos arquivos para o repositório remoto
+Git status --> Saber se está tudo okay com o repositório remoto/local, se há arquivos que não foram adicionados ou comitados
+Git pull --> Baixa os arquivos que não estão em seu repositório local
+Git clone --> Clona um repositório remoto já existente
+Git commit --> adiciona um commit
