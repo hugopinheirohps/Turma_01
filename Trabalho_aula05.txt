@@ -1,0 +1,21 @@
+1- Quem inventou o sistema de controle de versão Git e por quê?
+R- O criador do git foi o criador do Linux: Linus Torvalds. Que criou o sitema de versionamento
+para corrigir um problema de comunicação entre os colaboradores de seus projetos, incluindo o Linux
+ou seja foi criado com o intuito de eliminar a necessidade de envios de e-mail toda vez que fosse feita
+alguma alteração no código ou no projeto em si, o git serve como um armazenamento em nuvem para armazenar,
+o histórico de versões/alterações de projeto, facilitando o trabalho da equipe como um todo.
+
+2-Quem atualmente é o dono do Github e por quê?
+R- O atual dono do sistema é a Microsoft, e foi adquirida com o intuito de que a Microsoft, com seu poder,
+e inflûencia consiga tornar o sistema também popular entre as empresas e clientes mais tradicionais
+"De acordo com Satya Nadella, a principal mudança externa diz respeito a uma maior
+aceitação da plataforma pelas corporações,
+incentivando sua adoção junto a seus clientes tradicionais. Sendo assim, a Microsoft irá 
+injetar esforço e dinheiro para fazer com que o serviço se torne mais popular principalmente 
+no que diz respeito a suas soluções corporativas"
+
+3- Existe outra maneira, além do terminal, de trabalhar com o Github?
+R- Sim atualmente conheço duas, o próprio vscode tem uma interação para 
+conectar a ide com a conta github do dev, desta forma ele podendo fazer commits forks e outras funções pela IDE.
+E a outra forma é o GitHub Desktop ferramenta desenvolvida pela propria GitHub para facilitar a utilização,
+do sistema e minimizar a ação através do terminal, tendo exatamente as mesmas funções do terminal.
