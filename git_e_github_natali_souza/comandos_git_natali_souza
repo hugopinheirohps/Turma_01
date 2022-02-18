@@ -1,0 +1,5 @@
+git push origin master:envia para o repositorio remoto 
+git pull:baixa mudanças do repositorio remoto 
+git checkout:usado para mudar a branch 
+git branch: criar uma branch 
+git clone: clonar um repositorio remoto 
