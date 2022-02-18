@@ -1,0 +1,55 @@
+ls
+mostra os arquivos e pastas locais
+
+mkdir
+cria uma nova pasta
+
+touch 
+cria um novo arquivo, cuja extensão pode variar
+
+nano
+cria o arquivo e abre para edição
+
+cd
+vai para uma determinada pasta
+
+cd ../
+volta um nível no path
+
+Comandos Git
+
+git init
+cria um repositório remoto
+
+git --config global user.name
+configura o nome do repositório
+
+git --config global user.email
+configura o email do repositório
+
+git remote add origin 
+adiciona ao repositório remoto
+
+git status
+mostra os status dos commits
+
+git add 
+adiciona arquivos à fila de commit 
+
+git commit -m
+faz o commit dos arquivos adicionados
+
+git push origin <branch>
+envia os arquivos do commit para a branch escolhida
+
+git clone
+clona os arquivos de um repositório remoto para a máquina
+
+git pull
+atualiza os arquivos do repositório local de acordo com o remoto
+
+git branch
+cria uma nova branch
+
+git checkout
+vai para a branch determinada
