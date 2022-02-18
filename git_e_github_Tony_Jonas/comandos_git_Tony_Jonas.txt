@@ -1,0 +1,7 @@
+Git add - adiciona os arquivos solicitados ao ambiente de stage
+Git commit - gravação em si das modificações, onde criamos um 'snapshot' do estado atual do projeto, onde utilizamos 'git commit -m "{comentario}"'
+git push - subir as modificações ao repositório remoto
+
+git status - permite ver quais arquivos estão sendo "rastreados" pelo git e quais modificações já foram enviadas para o stage
+git branch - usado para verificar todas as branches presentes no repositório. É possível criar novas branchs colocando o nome no final
+git checkout - usado para mudar de branch. É possível usar um '-b' no final para criar e já trocar para essa branch
