@@ -1,0 +1,13 @@
+$ history
+    1  git init
+    2  git clone https://github.com/hugopinheirohps/Turma_01.git
+    3  cd turma_01
+    4  git branch jeff_mendes
+    5  git checkout
+    6  git checkout jeff_mendes
+    7  touch sonic.txt
+    8  git add sonic.txt
+    9  git status
+   10  git commit -m " testando123..."
+   11  git push origin jeff_mendes
+   12  history
