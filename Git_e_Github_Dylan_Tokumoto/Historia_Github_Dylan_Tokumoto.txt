@@ -1,0 +1,7 @@
+Git foi criado por Linus Torvalds que ficou insatisfeito após mudanças no até então único sistema de controle de versão que existia.
+Git tem como objetivo facilitar que pessoas colaborem no mesmo projeto.
+
+O atual dono do Github é a Microsoft e o motivo da compra foi fortalecer o mercado comporativo.
+
+Sim, além do terminal é possivel utilizar IDE (interface desenvolvimento).
+
