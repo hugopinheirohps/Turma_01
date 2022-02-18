@@ -1,0 +1,22 @@
+git init - Inicia um repositório local;
+
+git add --all - Adiciona alterações na fila local;
+
+git commit -m - Descreve as alterações que foram feitas no arquivo;
+
+git status - Mostra os arquivos do repositório;
+
+git remote add origin link do repositório - Link meu repositório local com meu repositório remoto;
+
+git clone link do repositório - Me permite clonar um repositório;
+
+git branch nome_branch - Permite criar uma ramificação da principal.
+
+git checkout nome_branch - Me permite trocar de branch.
+ 
+git pull origin main - atualiza meu repositório local com meu repositório remoto.
+
+git push origin main - envia as alterações feitas no meu repositório local
+para o meu repositório remoto.
+
+
