@@ -1,0 +1,17 @@
+Lista de comandos mais usados até o momento
+
+
+git add . adicionar todas alterações
+git add --all adicionar todas as alterações
+git commit -m "" - criar um comite com uma mensagem
+git push subir o sistema para o github
+git push origin master/main subir o sistema para o github na branch main ou master
+git pull baixar conteúdo do repositório remoto, atualizando o local 
+git clone -url do Github - clonar um repositório do git
+git init iniciar o repositório
+mkdir nome_da_pasta criar uma pasta
+touch nome_do_arquivo - criar um arquivo
+cd navegar entre pastas
+cd ../ voltar uma pasta
+nano edita um arquivo
+merge - usado para mesclar os repositórios  
