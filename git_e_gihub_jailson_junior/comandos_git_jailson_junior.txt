@@ -1,0 +1,17 @@
+git init- cria um repositório na pasta
+
+git add .- adiciona todos os arquivos
+
+git commit -m "mensagem"- adiciona uma mensagem nas alterações feitas
+
+git push origin master- envia as mudanças para o repositório remoto
+
+git status- Mostra o status do arquivo
+
+git clone "site ou nome do dominio que quer pegar o arquivo"- Clona o arquivo para o repositorio local
+
+git config --global user.name nomeUsuario- Define um  nome ao repositório
+
+git config --global user.email nomeUsuario@email.com- Deixa o email vinculado ao repositório
+
+git remote add origin- seleciona um repositório remoto
