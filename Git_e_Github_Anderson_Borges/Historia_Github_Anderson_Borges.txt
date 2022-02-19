@@ -1,0 +1,37 @@
+1 - Quem inventou o sistema de controle de versão Git e por quê?
+R.:
+Ele foi criado por Linus Torvalds, que é mais conhecido por outra criação, o Linux.
+Linus desenvolveu o Git após ter ficado insatisfeito com uma mudança de licença de utilização do BitKeeper,
+o sistema de controle de versão que era utilizado por ele e pela equipe que desenvolvia o Linux.
+
+Como na época não existia nada similar, ele resolveu criar a sua própria versão de um sistema para controlar as alterações do projeto Linux.
+E foi aí que surgiu o Git.
+
+2 - Quem atualmente é o dono do Github e por quê?
+R.:
+O atual dono do Github, é a Microsoft.
+Tendo comprado o mesmo no segundo semestre de 2018 por 7,5 Bilhões de dólares.
+
+Por quê?:
+A Microsoft não parece ser a mesma empresa outrora, não no sentido de querer “apenas obter lucro”,
+mas é uma empresa que teve de reaprender a se colocar no mercado.
+E, atualmente no mercado de tecnologia, a informação vale mais do que qualquer produto tradicional, informação é o produto!
+Temos como exemplo a Google, que é uma das maiores do mundo não só por seus produtos de qualidade, mas pelo que eles geram:
+Conhecimento sobre você e eu.
+Tendo notado isso, a Microsoft deixou  de ser apenas uma produtora de software, como fora em outros tempos,
+para ser uma fornecedora de serviços.
+Pois hoje, a  Microsoft é dona de muito mais empresas e serviços do que se  imagina, mas vamos observar dois apenas.
+O LinkedIn e o GitHub.
+A combinação de ambos permite que a Microsoft tenha acesso a uma imensa base de dados,
+desde o que as empresas estão necessitando até a quais as tecnologias que as pessoas mais estão usando.
+Com esse tipo de conhecimento é muito mais fácil criar produtos para atender demandas crescentes, muitas vezes sem usar o Windows diretamente,
+como é o caso do Azure e do Azure Sphere OS. 
+A Microsoft está empenhada em oferecer tecnologia para seus clientes, atender suas demandas.
+
+3 - Existe outra maneira, além do terminal, de trabalhar com o Github?
+R.:
+Sim, existe o Github Desktop.
+
+Fonte:
+https://www.hostgator.com.br/blog/git-o-sistema-de-controle/#:~:text=Ele%20foi%20criado%20por%20Linus,equipe%20que%20desenvolvia%20o%20Linux.
+https://diolinux.com.br/noticias/sobre-compra-do-github-pela-microsoft.html

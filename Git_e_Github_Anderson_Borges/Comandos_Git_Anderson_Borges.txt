@@ -1,0 +1,25 @@
+Para criar um repositório local:
+git init
+
+Para configurar o seu nome:
+git config user.name "nome"
+
+Para adicionar todos os arquivos ao repositório:
+git add .
+
+Para adicionar um commit(uma mensagem que diz quais alterações foram feitas no arquivo), aos arquivos adicionados:
+git commit -m "mensagem"
+
+Para enviar as alterações ao repositório remoto:
+git push origin master
+
+Para baixar a ultima versão dos arquivos de um repositório:
+git clone "endereço url do repositório"
+
+Quando já se tem o repositório, e deseja atualizá-lo com os arquivos que foram enviados ao mesmo:
+git pull origin main
+
+Para subir os arquivos para o repositório:
+git push origin main
+
+
