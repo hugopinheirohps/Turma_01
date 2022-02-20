@@ -1,0 +1,7 @@
+seleciona esse arquivo e o move para a área de encenação, marcando-o para inclusão no próximo commit:
+git add 
+
+
+git commit:O Git commit permite que você crie um commit, ou seja, você consegue guardar o estado do seu repositório naquele momento. 
+
+git push: O comando git push é usado para enviar o conteúdo do repositório local para um repositório remoto. O comando push transfere commits do repositório local a um repositório remoto. 
