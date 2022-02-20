@@ -1,0 +1,16 @@
+comandos mais usados:
+
+mkdir= usado para cria uma pasta
+cd = entrar ou sair de um determinado lugar
+rmdir= usado para apgar pasta vazia
+git init= criar um repositorio
+git add= adicionar arquivo a um lugar chamado de stage
+git commit -m ""= a pasta ou arquivo que estava na stage vai para head
+git remote add origin [endereço]= mostra pro git onde sera entregue o projeto
+git push origin master ou main= enpurra o arquivo para o github
+git branch nome_sobre= criar uma branch
+checckout -b nome_sobre= entra na branch ou pode sair tambem (prof: no momento que fui criar minha branch nao usei o "-b")
+git pull= atualiza pasta arquivo, etc.
+git clone [endereço]= clona pasta de um repositorio para sua maquina
+
+
