@@ -1,0 +1,35 @@
+Comandos git
+cd NomeDaPastaQueVoceQuerAbrir
+
+cd .. 
+//Volta a pasta anterior
+
+touch CriaUmNovoArquivo.txt
+
+git add .
+//Adiciona o arquivo 
+
+git commit -m "Escreva um comentario do que voce modificou"
+
+mv Arquivo.txt ArquivoModificado.txt
+//Para mover o arquivo ou pasta. Tambem usado para renomear 
+
+history
+//mostra o historico de tudos os comandos que voce ja realizou
+
+clear
+//limpa o terminal
+
+ls
+//lista o que tem dentro da pasta 
+
+//ls -a
+lista o que tem dentro da pasta mostrando os itens ocultos
+
+rm -rf
+//permite excluir pasta com outra pasta dentro (a exclusao com rm é feito sem confiracao, feito isso nao podemos voltar a atras)
+
+
+
+
+
