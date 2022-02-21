@@ -30,6 +30,7 @@ rm -rf
 //permite excluir pasta com outra pasta dentro (a exclusao com rm é feito sem confiracao, feito isso nao podemos voltar a atras)
 
 
-
+git status
+//para saber o status dos seus arquivos
 
 
